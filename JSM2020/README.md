@@ -35,7 +35,8 @@
     3. INLA is a challenging thing to understand but makes spatio-temporal model faster, do you think it's good idea to teach them to undergrad level? 
     4. Question for Colin, what do you think of the package (cmdstanr) also running the mod$variational for quick model runs?
     5. So, did you say you use a lab for this class? How would that work with remote learning during coronavirus pandemic?
-    6. Question for Jim, I was wondering if future additions of the book will include Variational Bayes.
+    6. A round of back and forth re variational Bayes:
+        - Question for Jim, I was wondering if future additions of the book will include Variational Bayes.
     7. Jim - Thanks for great talk. I agree with your point about Stan vs JAGS (or even BUGS). Question: Do you recommend to students to use Directed Acyclical GRaphs when building a model prior to coding? I find this very helpful. Thanks.
     8. When proposing a Bayesian curriculum to an older program that is mostly frequentist, what advice do you have to convince them to teach Bayes?
     9. Alicia is there a Bookdown version of Bayes Rules!? What is the stat and math background you are assuming?
