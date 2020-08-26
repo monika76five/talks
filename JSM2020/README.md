@@ -5,14 +5,19 @@
 - Quiz: Are You a Bayesian?
     - Alicia Johnson, Macalester College
 
-- [Bayes for Undergraduates, A Prior is Modified](https://github.com/monika76five/talks/blob/master/docs/JeffWitmer.pdf)
-Jeff Witmer, Oberlin College
+- Bayes for Undergraduates, A Prior is Modified
+    - Jeff Witmer, Oberlin College
+    - [slides](https://github.com/monika76five/talks/blob/master/docs/JeffWitmer.pdf)
 
-- [Challenges of Teaching Bayesian Statistics to Undergraduates](https://github.com/monika76five/talks/blob/master/docs/BrianReich.pdf)
-Brian Reich, North Carolina State University
+- Challenges of Teaching Bayesian Statistics to Undergraduates
+    - Brian Reich, North Carolina State University
+    - [slides]((https://github.com/monika76five/talks/blob/master/docs/BrianReich.pdf))
+    - [pre-recorded video](https://www4.stat.ncsu.edu/~bjreich/BSMData/Reich_JSM_2020.mp4)
 
 - Computation Infrastructure for Teaching Bayesian Modeling
-Colin Rundel, University of Edinburgh
+    - Colin Rundel, University of Edinburgh
+    - [slides](https://github.com/rundel/Presentations/tree/master/JSM2020)
 
-- [A Probability Plus Bayes Course](https://github.com/monika76five/talks/blob/master/docs/JimAlbert.pdf)
-Jim Albert, Bowling Green State University
+- A Probability Plus Bayes Course
+    - Jim Albert, Bowling Green State University
+    - [slides](https://github.com/monika76five/talks/blob/master/docs/JimAlbert.pdf)
