@@ -1,1 +1,1 @@
-# Conference Talks / Panels / Chairing Sessions
+# Talks, Panels, and Chairing Sessions
