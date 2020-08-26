@@ -3,7 +3,7 @@
 #### Section on Bayesian Statistical Science, Section on Statistical Learning and Data Science, Section on Statistical Computing
 
 - Quiz: Are You a Bayesian?
-Alicia Johnson, Macalester College
+    - Alicia Johnson, Macalester College
 
 - [Bayes for Undergraduates, A Prior is Modified](https://github.com/monika76five/talks/blob/master/docs/JeffWitmer.pdf)
 Jeff Witmer, Oberlin College
