@@ -3,7 +3,7 @@
 #### Section on Bayesian Statistical Science, Section on Statistical Learning and Data Science, Section on Statistical Computing
 
 - Quiz: Are You a Bayesian?
-    - Alicia Johnson, Macalester College
+    - Alicia Johnson, Macalester College: Alicia is an associate professor of statistics at Macalester College whose interests span statistical computation, Bayesian statistics, and stat / data science education.
 
 - Bayes for Undergraduates, A Prior is Modified
     - Jeff Witmer, Oberlin College
