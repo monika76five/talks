@@ -6,6 +6,7 @@
 - **Quiz: Are You a Bayesian?**
     - Alicia Johnson, Macalester College
     - Bio: Alicia is an associate professor of statistics at Macalester College whose interests span statistical computation, Bayesian statistics, and stat / data science education.
+    - [slides](https://docs.google.com/presentation/d/12yEKMxmHhfLkYWrSSh05ae87oEV7yYR6deXuBuP7bFk/edit#slide=id.p)
 
 - **Bayes for Undergraduates, A Prior is Modified**
     - Jeff Witmer, Oberlin College
