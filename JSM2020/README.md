@@ -11,7 +11,7 @@
 
 - Challenges of Teaching Bayesian Statistics to Undergraduates
     - Brian Reich, North Carolina State University
-    - [slides]((https://github.com/monika76five/talks/blob/master/docs/BrianReich.pdf))
+    - [slides](https://github.com/monika76five/talks/blob/master/docs/BrianReich.pdf)
     - [pre-recorded video](https://www4.stat.ncsu.edu/~bjreich/BSMData/Reich_JSM_2020.mp4)
 
 - Computation Infrastructure for Teaching Bayesian Modeling
