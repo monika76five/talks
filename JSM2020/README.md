@@ -1,6 +1,7 @@
 ## JSM 2020 Session \# 243 Invited
 ### Thinking Beyond the P-Value: Advancing Bayesian Education for the Undergraduates 
 #### Section on Bayesian Statistical Science, Section on Statistical Learning and Data Science, Section on Statistical Computing
+#### Organizer \& Chair: Jingchen (Monika) Hu, Vassar College
 
 - Quiz: Are You a Bayesian?
     - Alicia Johnson, Macalester College: Alicia is an associate professor of statistics at Macalester College whose interests span statistical computation, Bayesian statistics, and stat / data science education.
